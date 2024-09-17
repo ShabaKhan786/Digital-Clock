@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+body {
+    overflow: hidden;
+}
+
+#con {
+    display: flex;
+    height: 200px;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    font-weight: 900;
+    margin: 300px;
+    border-radius: 50%;
+}
+
+
+div {
+    width: 200px;
+   background-color: aqua;
+    border: 3px solid black;
+}
